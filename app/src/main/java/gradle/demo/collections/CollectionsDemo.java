@@ -1,4 +1,4 @@
-package gradle.demo;
+package gradle.demo.collections;
 
 import java.util.*;
 
